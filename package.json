@@ -1,5 +1,5 @@
 {
-  "name": "odyssey_hackathon_project",
+  "name": "rucaswebsite",
   "version": "0.3.0",
   "description": "Node.js app using html and css",
   "engines": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aLehav/adamlehaviwebsite"
+    "url": "https://github.com/MackieLevyn/first.personal"
   },
   "keywords": [
     "node",
